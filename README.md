@@ -1,4 +1,4 @@
-#Name of the Project :Clicks on Ads(Logistic Regression  Model)
+Name of the Project :Clicks on Ads(Logistic Regression  Model)
 In this project we will work with adverising data that shows wether a user has clicked on an advert on a company's website or not. We create a model which predicts wether the customers will click on the advert or not.The Dataset contains useful information like (time spent on internet / the region income ).the progect provides useful insight for E-commerce  projects 
 
 
