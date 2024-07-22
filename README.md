@@ -6,7 +6,7 @@ In this project we will work with adverising data that shows wether a user has c
 
 # Execution
 
-To run this Jupyter Notebook, you need to go the above Binder Link .Open the notebook .Then Run each cell from top to bottom to complete the project.
+To run this Jupyter Notebook, you need to go the above Binder Link .Open the LogReg_code.ipynb File .Then Run each cell from top to bottom to complete the project.
 
 # Results 
 
